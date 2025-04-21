@@ -40,7 +40,7 @@
         <p class="text-sm text-white">
           Source code available on
           <a
-            href=""
+            href="https://github.com/finncydevs/text-analyzer.git"
             class="text-blue-500 hover:underline"
             target="_blank"
             rel="noopener noreferrer"
